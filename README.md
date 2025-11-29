@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Guilherme de Oliveira Correia</h1>
-<h3 align="center">23yo, Brazilian, Majoring CC in the university of UNIOESTE</h3>
+<h3 align="center">23yo, Brazilian, Majoring CC</h3>
 
 📫 How to reach me **gui.lokoliveira@hotmail.com**
 
